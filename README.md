@@ -1,4 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 # 🎵 Spotify Popularity Prediction & Analysis
 
 This project explores a dataset of 6,300 Spotify tracks and builds models to understand and predict the popularity of songs based on features like genre, duration, and explicit content.
